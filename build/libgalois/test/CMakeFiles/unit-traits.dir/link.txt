@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -march=native CMakeFiles/unit-traits.dir/traits.cpp.o  -o unit-traits  ../libgalois_shmem.a ../../lonestar/liblonestar/liblonestar.a ../libgalois_shmem.a /usr/lib/x86_64-linux-gnu/libnuma.so /usr/lib/llvm-13/lib/libLLVMSupport.a -lrt -ldl -lpthread -lm /usr/lib/x86_64-linux-gnu/libz.so /usr/lib/x86_64-linux-gnu/libtinfo.so /usr/lib/llvm-13/lib/libLLVMDemangle.a 

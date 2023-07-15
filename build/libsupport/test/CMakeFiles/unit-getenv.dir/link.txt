@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -march=native CMakeFiles/unit-getenv.dir/getenv.cpp.o  -o unit-getenv  ../libgalois_support.a /usr/lib/libfmt.a 

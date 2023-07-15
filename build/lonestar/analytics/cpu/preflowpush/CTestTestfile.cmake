@@ -1,0 +1,14 @@
+# CMake generated Testfile for 
+# Source directory: /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/preflowpush
+# Build directory: /home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/preflowpush
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(run-small1-preflowpush-cpu-8 "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/preflowpush/preflowpush-cpu" "/home/zwt/lhy/MyProject/DepGraph/build/inputs/reference/structured/torus5.gr" "-sourceNode=0" "-sinkNode=10" "-t" "8")
+set_tests_properties(run-small1-preflowpush-cpu-8 PROPERTIES  ENVIRONMENT "GALOIS_DO_NOT_BIND_THREADS=1" LABELS "quick" _BACKTRACE_TRIPLES "/home/zwt/lhy/MyProject/DepGraph/lonestar/CMakeLists.txt;17;add_test;/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/preflowpush/CMakeLists.txt;5;add_test_scale;/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/preflowpush/CMakeLists.txt;0;")
+add_test(run-small1-preflowpush-cpu-4 "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/preflowpush/preflowpush-cpu" "/home/zwt/lhy/MyProject/DepGraph/build/inputs/reference/structured/torus5.gr" "-sourceNode=0" "-sinkNode=10" "-t" "4")
+set_tests_properties(run-small1-preflowpush-cpu-4 PROPERTIES  ENVIRONMENT "GALOIS_DO_NOT_BIND_THREADS=1" LABELS "quick" _BACKTRACE_TRIPLES "/home/zwt/lhy/MyProject/DepGraph/lonestar/CMakeLists.txt;17;add_test;/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/preflowpush/CMakeLists.txt;5;add_test_scale;/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/preflowpush/CMakeLists.txt;0;")
+add_test(run-small1-preflowpush-cpu-2 "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/preflowpush/preflowpush-cpu" "/home/zwt/lhy/MyProject/DepGraph/build/inputs/reference/structured/torus5.gr" "-sourceNode=0" "-sinkNode=10" "-t" "2")
+set_tests_properties(run-small1-preflowpush-cpu-2 PROPERTIES  ENVIRONMENT "GALOIS_DO_NOT_BIND_THREADS=1" LABELS "quick" _BACKTRACE_TRIPLES "/home/zwt/lhy/MyProject/DepGraph/lonestar/CMakeLists.txt;17;add_test;/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/preflowpush/CMakeLists.txt;5;add_test_scale;/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/preflowpush/CMakeLists.txt;0;")
+add_test(run-small1-preflowpush-cpu-1 "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/preflowpush/preflowpush-cpu" "/home/zwt/lhy/MyProject/DepGraph/build/inputs/reference/structured/torus5.gr" "-sourceNode=0" "-sinkNode=10" "-t" "1")
+set_tests_properties(run-small1-preflowpush-cpu-1 PROPERTIES  ENVIRONMENT "GALOIS_DO_NOT_BIND_THREADS=1" LABELS "quick" _BACKTRACE_TRIPLES "/home/zwt/lhy/MyProject/DepGraph/lonestar/CMakeLists.txt;17;add_test;/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/preflowpush/CMakeLists.txt;5;add_test_scale;/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/preflowpush/CMakeLists.txt;0;")

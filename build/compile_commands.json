@@ -1,0 +1,1117 @@
+[
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libsupport",
+  "command": "/usr/bin/c++   -I/home/zwt/lhy/MyProject/DepGraph/libsupport/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_support.dir/src/GetEnv.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libsupport/src/GetEnv.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libsupport/src/GetEnv.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libsupport",
+  "command": "/usr/bin/c++   -I/home/zwt/lhy/MyProject/DepGraph/libsupport/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_support.dir/src/Logging.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libsupport/src/Logging.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libsupport/src/Logging.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libsupport/test",
+  "command": "/usr/bin/c++   -I/home/zwt/lhy/MyProject/DepGraph/libsupport/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-logging.dir/logging.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libsupport/test/logging.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libsupport/test/logging.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libsupport/test",
+  "command": "/usr/bin/c++   -I/home/zwt/lhy/MyProject/DepGraph/libsupport/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-getenv.dir/getenv.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libsupport/test/getenv.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libsupport/test/getenv.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/Version.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/build/libgalois/Version.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/Version.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Barrier_Counting.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier_Counting.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier_Counting.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Barrier.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Barrier_Dissemination.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier_Dissemination.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier_Dissemination.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Barrier_MCS.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier_MCS.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier_MCS.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Barrier_Pthread.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier_Pthread.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier_Pthread.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Barrier_Simple.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier_Simple.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier_Simple.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Barrier_Topo.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier_Topo.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Barrier_Topo.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Context.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Context.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Context.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Deterministic.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Deterministic.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Deterministic.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/DynamicBitset.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/DynamicBitset.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/DynamicBitset.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/EnvCheck.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/EnvCheck.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/EnvCheck.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/FileGraph.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/FileGraph.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/FileGraph.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/FileGraphParallel.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/FileGraphParallel.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/FileGraphParallel.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/gIO.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/gIO.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/gIO.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/GraphHelpers.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/GraphHelpers.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/GraphHelpers.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/HWTopo.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/HWTopo.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/HWTopo.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Mem.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Mem.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Mem.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/NumaMem.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/NumaMem.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/NumaMem.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/OCFileGraph.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/OCFileGraph.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/OCFileGraph.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/PageAlloc.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/PageAlloc.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/PageAlloc.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/PagePool.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/PagePool.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/PagePool.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/ParaMeter.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/ParaMeter.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/ParaMeter.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/PerThreadStorage.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/PerThreadStorage.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/PerThreadStorage.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/PreAlloc.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/PreAlloc.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/PreAlloc.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Profile.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Profile.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Profile.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/PtrLock.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/PtrLock.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/PtrLock.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/SharedMem.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/SharedMem.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/SharedMem.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/SharedMemSys.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/SharedMemSys.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/SharedMemSys.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/SimpleLock.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/SimpleLock.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/SimpleLock.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Statistics.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Statistics.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Statistics.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Substrate.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Substrate.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Substrate.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Support.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Support.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Support.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Termination.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Termination.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Termination.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/ThreadPool.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/ThreadPool.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/ThreadPool.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Threads.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Threads.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Threads.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/ThreadTimer.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/ThreadTimer.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/ThreadTimer.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Timer.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Timer.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Timer.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/Tracer.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/Tracer.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/Tracer.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_HAVE_PTHREAD -DGALOIS_USE_NUMA -DGALOIS_USE_SCHED_SETAFFINITY -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/galois_shmem.dir/src/HWTopoLinux.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/src/HWTopoLinux.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/src/HWTopoLinux.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-gslist.dir/gslist.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/gslist.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/gslist.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-hwtopo.dir/hwtopo.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/hwtopo.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/hwtopo.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-foreach.dir/foreach.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/foreach.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/foreach.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-wakeup-overhead.dir/wakeup-overhead.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/wakeup-overhead.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/wakeup-overhead.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-graph.dir/graph.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/graph.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/graph.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-forward-declare-graph.dir/forward-declare-graph.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/forward-declare-graph.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/forward-declare-graph.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-lc-adaptor.dir/lc-adaptor.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/lc-adaptor.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/lc-adaptor.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-empty-member-lcgraph.dir/empty-member-lcgraph.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/empty-member-lcgraph.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/empty-member-lcgraph.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-barriers.dir/barriers.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/barriers.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/barriers.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-sort.dir/sort.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/sort.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/sort.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-traits.dir/traits.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/traits.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/traits.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-acquire.dir/acquire.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/acquire.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/acquire.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-move.dir/move.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/move.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/move.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-floatingPointErrors.dir/floatingPointErrors.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/floatingPointErrors.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/floatingPointErrors.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-flatmap.dir/flatmap.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/flatmap.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/flatmap.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-lock.dir/lock.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/lock.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/lock.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-gcollections.dir/gcollections.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/gcollections.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/gcollections.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-morphgraph.dir/morphgraph.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/morphgraph.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/morphgraph.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-morphgraph-removal.dir/morphgraph-removal.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/morphgraph-removal.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/morphgraph-removal.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-oneach.dir/oneach.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/oneach.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/oneach.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-twoleveliteratora.dir/twoleveliteratora.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/twoleveliteratora.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/twoleveliteratora.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-papi.dir/papi.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/papi.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/papi.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-pc.dir/pc.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/pc.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/pc.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-reduction.dir/reduction.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/reduction.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/reduction.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-bandwidth.dir/bandwidth.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/bandwidth.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/bandwidth.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-mem.dir/mem.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/mem.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/mem.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-static.dir/static.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/static.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/static.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-graph-compile.dir/graph-compile.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/graph-compile.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/graph-compile.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgalois/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/unit-worklists-compile.dir/worklists-compile.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgalois/test/worklists-compile.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgalois/test/worklists-compile.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libdist",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_SUPPORT_ASYNC=1 -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/galois_dist_async.dir/src/Barrier.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libdist/src/Barrier.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libdist/src/Barrier.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libdist",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_SUPPORT_ASYNC=1 -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/galois_dist_async.dir/src/DistGalois.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libdist/src/DistGalois.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libdist/src/DistGalois.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libdist",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_SUPPORT_ASYNC=1 -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/galois_dist_async.dir/src/DistStats.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libdist/src/DistStats.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libdist/src/DistStats.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libdist",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_SUPPORT_ASYNC=1 -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/galois_dist_async.dir/src/Network.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libdist/src/Network.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libdist/src/Network.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libdist",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_SUPPORT_ASYNC=1 -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/galois_dist_async.dir/src/NetworkBuffered.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libdist/src/NetworkBuffered.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libdist/src/NetworkBuffered.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libdist",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_SUPPORT_ASYNC=1 -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/galois_dist_async.dir/src/NetworkIOMPI.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libdist/src/NetworkIOMPI.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libdist/src/NetworkIOMPI.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libdist",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_SUPPORT_ASYNC=1 -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/galois_dist_async.dir/src/NetworkLCI.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libdist/src/NetworkLCI.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libdist/src/NetworkLCI.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgluon",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/galois_gluon.dir/src/cuda_device.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgluon/src/cuda_device.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgluon/src/cuda_device.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgluon",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/galois_gluon.dir/src/SyncStructures.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgluon/src/SyncStructures.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgluon/src/SyncStructures.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgluon",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/galois_gluon.dir/src/GlobalObj.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgluon/src/GlobalObj.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgluon/src/GlobalObj.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libgluon",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/galois_gluon.dir/src/GluonSubstrate.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libgluon/src/GluonSubstrate.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libgluon/src/GluonSubstrate.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libpangolin",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libpangolin/include -I/home/zwt/lhy/MyProject/DepGraph/external/bliss -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/pangolin.dir/src/equivalence.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libpangolin/src/equivalence.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libpangolin/src/equivalence.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libpangolin",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libpangolin/include -I/home/zwt/lhy/MyProject/DepGraph/external/bliss -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/pangolin.dir/src/quick_pattern.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libpangolin/src/quick_pattern.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libpangolin/src/quick_pattern.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libpangolin",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libpangolin/include -I/home/zwt/lhy/MyProject/DepGraph/external/bliss -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/pangolin.dir/src/base_embedding.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libpangolin/src/base_embedding.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libpangolin/src/base_embedding.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libpangolin",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libpangolin/include -I/home/zwt/lhy/MyProject/DepGraph/external/bliss -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/pangolin.dir/src/vertex_embedding.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libpangolin/src/vertex_embedding.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libpangolin/src/vertex_embedding.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/libpangolin",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libpangolin/include -I/home/zwt/lhy/MyProject/DepGraph/external/bliss -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/pangolin.dir/src/BfsMining/embedding_list.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/libpangolin/src/BfsMining/embedding_list.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/libpangolin/src/BfsMining/embedding_list.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/libdistbench",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/llvm-13/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/distbench.dir/src/Start.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/src/Start.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/src/Start.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/libdistbench",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/llvm-13/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/distbench.dir/src/Input.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/src/Input.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/src/Input.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/libdistbench",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/llvm-13/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/distbench.dir/src/Output.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/src/Output.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/src/Output.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/liblonestar",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/llvm-13/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/lonestar.dir/src/BoilerPlate.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/src/BoilerPlate.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/src/BoilerPlate.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-malloc.dir/ThirdPartyMalloc.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/ThirdPartyMalloc.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/ThirdPartyMalloc.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-hello-world.dir/HelloWorld.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/HelloWorld.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/HelloWorld.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-sssp-push-simple.dir/SSSPPushSimple.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/SSSPPushSimple.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/SSSPPushSimple.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-sssp-simple.dir/SSSPsimple.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/SSSPsimple.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/SSSPsimple.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-sssp-pull-simple.dir/SSSPPullSimple.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/SSSPPullSimple.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/SSSPPullSimple.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-torus-construction.dir/TorusConstruction.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/TorusConstruction.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/TorusConstruction.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-torus-improved.dir/TorusImproved.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/TorusImproved.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/TorusImproved.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-graph-traversal-pull.dir/GraphTraversalPullOperator.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/GraphTraversalPullOperator.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/GraphTraversalPullOperator.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-wrapped-worklist.dir/ExampleWrappedWorklist.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/ExampleWrappedWorklist.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/ExampleWrappedWorklist.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-torus.dir/Torus.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/Torus.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/Torus.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-graph-traversal-serial.dir/GraphTraversalSerial.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/GraphTraversalSerial.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/GraphTraversalSerial.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-graph-traversal-push.dir/GraphTraversalPushOperator.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/GraphTraversalPushOperator.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/GraphTraversalPushOperator.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-conflict-aware-torus.dir/ConflictAwareTorus.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/ConflictAwareTorus.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/ConflictAwareTorus.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-spanningtree.dir/SpanningTree.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/SpanningTree.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/SpanningTree.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/tutorial_examples",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/example-countlevels.dir/CountLevels.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/CountLevels.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/tutorial_examples/CountLevels.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/betweennesscentrality",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/betweennesscentrality-cpu.dir/BetweennessCentrality.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/betweennesscentrality/BetweennessCentrality.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/betweennesscentrality/BetweennessCentrality.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/bfs",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/bfs-directionopt-cpu.dir/bfsDirectionOpt.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bfs/bfsDirectionOpt.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bfs/bfsDirectionOpt.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/bfs",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/bfs-cpu.dir/bfs.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bfs/bfs.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bfs/bfs.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/bipart",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/bipart-cpu.dir/bipart.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bipart/bipart.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bipart/bipart.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/bipart",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/bipart-cpu.dir/Coarsening.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bipart/Coarsening.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bipart/Coarsening.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/bipart",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/bipart-cpu.dir/Metric.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bipart/Metric.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bipart/Metric.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/bipart",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/bipart-cpu.dir/Partitioning.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bipart/Partitioning.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bipart/Partitioning.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/bipart",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/bipart-cpu.dir/Refine.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bipart/Refine.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/bipart/Refine.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/spanningtree",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/minimum-spanningtree-cpu.dir/Boruvka.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/spanningtree/Boruvka.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/spanningtree/Boruvka.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/clustering",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/leiden-clustering-cpu.dir/leidenClustering.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/clustering/leidenClustering.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/clustering/leidenClustering.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/clustering",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/louvain-clustering-cpu.dir/louvainClustering.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/clustering/louvainClustering.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/clustering/louvainClustering.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/connected-components",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/connected-components-cpu.dir/ConnectedComponents.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/connected-components/ConnectedComponents.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/connected-components/ConnectedComponents.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/gmetis",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/gmetis-cpu.dir/Coarsening.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/gmetis/Coarsening.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/gmetis/Coarsening.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/gmetis",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/gmetis-cpu.dir/GMetis.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/gmetis/GMetis.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/gmetis/GMetis.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/gmetis",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/gmetis-cpu.dir/Metric.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/gmetis/Metric.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/gmetis/Metric.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/gmetis",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/gmetis-cpu.dir/Partitioning.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/gmetis/Partitioning.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/gmetis/Partitioning.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/gmetis",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/gmetis-cpu.dir/Refine.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/gmetis/Refine.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/gmetis/Refine.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/independentset",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/maximal-independentset-cpu.dir/IndependentSet.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/independentset/IndependentSet.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/independentset/IndependentSet.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/k-core",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/k-core-cpu.dir/kcore.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/k-core/kcore.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/k-core/kcore.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/k-truss",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/verify-k-truss.dir/Verify.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/k-truss/Verify.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/k-truss/Verify.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/k-truss",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/k-truss-cpu.dir/K-Truss.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/k-truss/K-Truss.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/k-truss/K-Truss.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/matching",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/maximum-cardinality-matching-cpu.dir/bipartite-mcm.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/matching/bipartite-mcm.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/matching/bipartite-mcm.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/matrixcompletion",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -ffast-math -std=c++17 -o CMakeFiles/matrixcompletion-cpu.dir/matrixCompletion.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/matrixcompletion/matrixCompletion.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/matrixcompletion/matrixCompletion.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/pagerank",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/pagerank-push-cpu.dir/PageRank-push.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/pagerank/PageRank-push.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/pagerank/PageRank-push.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/pagerank",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/pagerank-pull-cpu.dir/PageRank-pull.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/pagerank/PageRank-pull.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/pagerank/PageRank-pull.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/pointstoanalysis",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/pointstoanalysis-cpu.dir/PointsTo.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/pointstoanalysis/PointsTo.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/pointstoanalysis/PointsTo.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/preflowpush",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/preflowpush-cpu.dir/Preflowpush.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/preflowpush/Preflowpush.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/preflowpush/Preflowpush.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/sssp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/sssp-cpu.dir/SSSP.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/sssp/SSSP.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/sssp/SSSP.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/cpu/triangle-counting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/triangle-counting-cpu.dir/Triangles.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/triangle-counting/Triangles.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/cpu/triangle-counting/Triangles.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/betweennesscentrality",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/betweennesscentrality-minrounds-dist.dir/bc_mr.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/betweennesscentrality/bc_mr.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/betweennesscentrality/bc_mr.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/betweennesscentrality",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/betweennesscentrality-level-dist.dir/bc_level.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/betweennesscentrality/bc_level.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/betweennesscentrality/bc_level.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/bfs",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/bfs-pull-dist.dir/bfs_pull.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/bfs/bfs_pull.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/bfs/bfs_pull.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/bfs",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/bfs-push-dist.dir/bfs_push.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/bfs/bfs_push.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/bfs/bfs_push.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/connected-components",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/connected-components-pull-dist.dir/cc_pull.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/connected-components/cc_pull.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/connected-components/cc_pull.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/connected-components",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/connected-components-push-dist.dir/cc_push.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/connected-components/cc_push.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/connected-components/cc_push.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/k-core",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/k-core-pull-dist.dir/kcore_pull.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/k-core/kcore_pull.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/k-core/kcore_pull.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/k-core",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/k-core-push-dist.dir/kcore_push.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/k-core/kcore_push.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/k-core/kcore_push.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/pagerank",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/pagerank-push-dist.dir/pagerank_push.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/pagerank/pagerank_push.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/pagerank/pagerank_push.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/pagerank",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/pagerank-pull-dist.dir/pagerank_pull.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/pagerank/pagerank_pull.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/pagerank/pagerank_pull.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/partition",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/partition-dist.dir/partition.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/partition/partition.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/partition/partition.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/matrixcompletion",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/matrixcompletion-dist.dir/matrixCompletion.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/matrixcompletion/matrixCompletion.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/matrixcompletion/matrixCompletion.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/sssp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/sssp-pull-dist.dir/sssp_pull.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/sssp/sssp_pull.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/sssp/sssp_pull.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/sssp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/sssp-push-dist.dir/sssp_push.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/sssp/sssp_push.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/sssp/sssp_push.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/triangle-counting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/triangle-counting-dist.dir/tc.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/triangle-counting/tc.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/analytics/distributed/triangle-counting/tc.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/main.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/main.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/main.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/algorithms/ChoiceManager.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/ChoiceManager.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/ChoiceManager.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/algorithms/CutManager.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/CutManager.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/CutManager.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/algorithms/CutPool.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/CutPool.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/CutPool.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/algorithms/NPNManager.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/NPNManager.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/NPNManager.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/algorithms/PreCompGraphManager.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/PreCompGraphManager.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/PreCompGraphManager.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/algorithms/PriorityCutManager.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/PriorityCutManager.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/PriorityCutManager.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/algorithms/PriorityCutPool.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/PriorityCutPool.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/PriorityCutPool.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/algorithms/ReconvDrivenCut.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/ReconvDrivenCut.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/ReconvDrivenCut.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/algorithms/RewriteManager.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/RewriteManager.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms/RewriteManager.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/functional/BitVectorPool.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional/BitVectorPool.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional/BitVectorPool.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/functional/FunctionUtil.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional/FunctionUtil.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional/FunctionUtil.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/misc/util/utilString.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util/utilString.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util/utilString.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/parsers/AigParser.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers/AigParser.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers/AigParser.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/parsers/LookupTableParser.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers/LookupTableParser.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers/LookupTableParser.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/parsers/semantic_error.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers/semantic_error.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers/semantic_error.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/parsers/syntax_error.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers/syntax_error.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers/syntax_error.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/parsers/unexpected_eof.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers/unexpected_eof.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers/unexpected_eof.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/subjectgraph/aig/Aig.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig/Aig.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig/Aig.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/writers/AigWriter.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers/AigWriter.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers/AigWriter.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/aig-rewriting-cpu.dir/writers/BlifWriter.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers/BlifWriter.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers/BlifWriter.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/aig-rewriting",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/subjectgraph/aig -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/algorithms -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/parsers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/writers -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/misc/util -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/functional -I/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/aig-rewriting-cpu.dir/xxHash/xxhash.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash/xxhash.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/aig-rewriting/xxHash/xxhash.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/sproute-cpu.dir/main.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/main.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/main.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/sproute-cpu.dir/dist.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/dist.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/dist.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/sproute-cpu.dir/dl.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/dl.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/dl.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/sproute-cpu.dir/err.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/err.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/err.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/sproute-cpu.dir/heap.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/heap.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/heap.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/sproute-cpu.dir/mst2.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/mst2.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/mst2.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/sproute-cpu.dir/neighbors.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/neighbors.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/neighbors.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/sproute-cpu.dir/bookshelf_IO.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/bookshelf_IO.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/bookshelf_IO.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/sproute-cpu.dir/memAlloc.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/memAlloc.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/memAlloc.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/mining/libminingbench",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DGALOIS_ENABLE_DIST=1 -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/libdistbench/include -I/home/zwt/lhy/MyProject/DepGraph/libcusp/include -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgluon/include -isystem /usr/lib/llvm-13/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/miningbench_dist.dir/src/Start.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/src/Start.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/src/Start.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/mining/libminingbench",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/miningbench.dir/src/Start.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/src/Start.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/src/Start.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/mining/libminingbench",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIC   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/miningbench.dir/src/Input.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/src/Input.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/src/Input.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/mining/cpu/frequent-subgraph-mining",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpangolin/include -I/home/zwt/lhy/MyProject/DepGraph/external/bliss -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/frequent-subgraph-mining-cpu.dir/fsm.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/mining/cpu/frequent-subgraph-mining/fsm.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/cpu/frequent-subgraph-mining/fsm.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/mining/cpu/k-clique-listing",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpangolin/include -I/home/zwt/lhy/MyProject/DepGraph/external/bliss -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/k-clique-listing-cpu.dir/kcl.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/mining/cpu/k-clique-listing/kcl.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/cpu/k-clique-listing/kcl.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/mining/cpu/motif-counting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpangolin/include -I/home/zwt/lhy/MyProject/DepGraph/external/bliss -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/motif-counting-cpu.dir/motif.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/mining/cpu/motif-counting/motif.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/cpu/motif-counting/motif.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/mining/cpu/triangle-counting",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpangolin/include -I/home/zwt/lhy/MyProject/DepGraph/external/bliss -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/libminingbench/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/triangle-counting-mining-cpu.dir/tc_mine.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/mining/cpu/triangle-counting/tc_mine.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/mining/cpu/triangle-counting/tc_mine.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/barneshut",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -ffast-math -std=c++17 -o CMakeFiles/barneshut-cpu.dir/Barneshut.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/barneshut/Barneshut.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/barneshut/Barneshut.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/delaunayrefinement",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -ffast-math -std=c++17 -o CMakeFiles/delaunayrefinement-cpu.dir/DelaunayRefinement.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/delaunayrefinement/DelaunayRefinement.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/delaunayrefinement/DelaunayRefinement.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/delaunaytriangulation",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -ffast-math -std=c++17 -o CMakeFiles/delaunaytriangulation-deterministic-cpu.dir/DelaunayTriangulationDet.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/delaunaytriangulation/DelaunayTriangulationDet.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/delaunaytriangulation/DelaunayTriangulationDet.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/delaunaytriangulation",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -ffast-math -std=c++17 -o CMakeFiles/delaunaytriangulation-deterministic-cpu.dir/Element.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/delaunaytriangulation/Element.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/delaunaytriangulation/Element.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/delaunaytriangulation",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -ffast-math -std=c++17 -o CMakeFiles/delaunaytriangulation-cpu.dir/DelaunayTriangulation.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/delaunaytriangulation/DelaunayTriangulation.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/delaunaytriangulation/DelaunayTriangulation.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/delaunaytriangulation",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -ffast-math -std=c++17 -o CMakeFiles/delaunaytriangulation-cpu.dir/Element.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/delaunaytriangulation/Element.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/delaunaytriangulation/Element.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/longestedgeTest.dir/test/TestMain.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/test/TestMain.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/test/TestMain.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/longestedgeTest.dir/src/model/Map.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/model/Map.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/model/Map.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/longestedgeTest.dir/src/libmgrs/mgrs.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/mgrs.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/mgrs.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/longestedgeTest.dir/src/libmgrs/polarst.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/polarst.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/polarst.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/longestedgeTest.dir/src/libmgrs/tranmerc.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/tranmerc.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/tranmerc.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/longestedgeTest.dir/src/libmgrs/utm.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/utm.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/utm.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/longestedgeTest.dir/src/libmgrs/ups.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/ups.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/ups.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/longestedgeTest.dir/src/utils/Utils.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/utils/Utils.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/utils/Utils.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/longestedge-cpu.dir/src/LongestEdge.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/LongestEdge.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/LongestEdge.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/longestedge-cpu.dir/src/model/Map.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/model/Map.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/model/Map.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/longestedge-cpu.dir/src/readers/SrtmReader.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/readers/SrtmReader.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/readers/SrtmReader.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/longestedge-cpu.dir/src/readers/AsciiReader.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/readers/AsciiReader.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/readers/AsciiReader.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/longestedge-cpu.dir/src/libmgrs/mgrs.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/mgrs.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/mgrs.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/longestedge-cpu.dir/src/libmgrs/polarst.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/polarst.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/polarst.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/longestedge-cpu.dir/src/libmgrs/tranmerc.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/tranmerc.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/tranmerc.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/longestedge-cpu.dir/src/libmgrs/utm.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/utm.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/utm.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/cc -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -march=native -o CMakeFiles/longestedge-cpu.dir/src/libmgrs/ups.c.o   -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/ups.c",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/libmgrs/ups.c"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/longestedge-cpu.dir/src/utils/Utils.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/utils/Utils.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/utils/Utils.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/longestedge-cpu.dir/src/readers/InpReader.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/readers/InpReader.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/readers/InpReader.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/longestedge-cpu.dir/src/writers/InpWriter.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/writers/InpWriter.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/writers/InpWriter.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/scientific/cpu/longestedge",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -I/home/zwt/lhy/MyProject/DepGraph/lonestar/liblonestar/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/longestedge-cpu.dir/src/writers/TriangleFormatWriter.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/writers/TriangleFormatWriter.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/lonestar/scientific/cpu/longestedge/src/writers/TriangleFormatWriter.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/tools/graph-convert",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_IOSTREAMS_DYN_LINK -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/graph-convert-huge.dir/graph-convert-huge.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/tools/graph-convert/graph-convert-huge.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/tools/graph-convert/graph-convert-huge.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/tools/graph-convert",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/graph-convert.dir/graph-convert.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/tools/graph-convert/graph-convert.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/tools/graph-convert/graph-convert.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/tools/graph-remap",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/graph-remap.dir/graph-remap.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/tools/graph-remap/graph-remap.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/tools/graph-remap/graph-remap.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/tools/graph-stats",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -std=c++17 -o CMakeFiles/graph-stats.dir/graph-stats.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/tools/graph-stats/graph-stats.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/tools/graph-stats/graph-stats.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/tools/dist-graph-convert",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/dist-graph-convert.dir/dist-graph-convert.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/tools/dist-graph-convert/dist-graph-convert.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/tools/dist-graph-convert/dist-graph-convert.cpp"
+},
+{
+  "directory": "/home/zwt/lhy/MyProject/DepGraph/build/tools/dist-graph-convert",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/zwt/lhy/MyProject/DepGraph/libdist/include -I/home/zwt/lhy/MyProject/DepGraph/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/build/libgalois/include -I/home/zwt/lhy/MyProject/DepGraph/libpygalois/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/llvm-13/include  -g -fPIE   -g -Wall -Wextra -Werror -march=native -pthread -std=c++17 -o CMakeFiles/dist-graph-convert.dir/dist-graph-convert-helpers.cpp.o -c /home/zwt/lhy/MyProject/DepGraph/tools/dist-graph-convert/dist-graph-convert-helpers.cpp",
+  "file": "/home/zwt/lhy/MyProject/DepGraph/tools/dist-graph-convert/dist-graph-convert-helpers.cpp"
+}
+]

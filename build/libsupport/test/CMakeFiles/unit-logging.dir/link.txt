@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -march=native CMakeFiles/unit-logging.dir/logging.cpp.o  -o unit-logging  ../libgalois_support.a /usr/lib/libfmt.a 

@@ -1,0 +1,14 @@
+# CMake generated Testfile for 
+# Source directory: /home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute
+# Build directory: /home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(run-small1-sproute-cpu-8 "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute/sproute-cpu" "-ISPD2008Graph" "/home/zwt/lhy/MyProject/DepGraph/build/inputs/eda/routing/test.gr" "--flute" "/home/zwt/lhy/MyProject/DepGraph/build/inputs/eda/routing" "-t" "8")
+set_tests_properties(run-small1-sproute-cpu-8 PROPERTIES  ENVIRONMENT "GALOIS_DO_NOT_BIND_THREADS=1" LABELS "quick" _BACKTRACE_TRIPLES "/home/zwt/lhy/MyProject/DepGraph/lonestar/CMakeLists.txt;17;add_test;/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/CMakeLists.txt;6;add_test_scale;/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/CMakeLists.txt;0;")
+add_test(run-small1-sproute-cpu-4 "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute/sproute-cpu" "-ISPD2008Graph" "/home/zwt/lhy/MyProject/DepGraph/build/inputs/eda/routing/test.gr" "--flute" "/home/zwt/lhy/MyProject/DepGraph/build/inputs/eda/routing" "-t" "4")
+set_tests_properties(run-small1-sproute-cpu-4 PROPERTIES  ENVIRONMENT "GALOIS_DO_NOT_BIND_THREADS=1" LABELS "quick" _BACKTRACE_TRIPLES "/home/zwt/lhy/MyProject/DepGraph/lonestar/CMakeLists.txt;17;add_test;/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/CMakeLists.txt;6;add_test_scale;/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/CMakeLists.txt;0;")
+add_test(run-small1-sproute-cpu-2 "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute/sproute-cpu" "-ISPD2008Graph" "/home/zwt/lhy/MyProject/DepGraph/build/inputs/eda/routing/test.gr" "--flute" "/home/zwt/lhy/MyProject/DepGraph/build/inputs/eda/routing" "-t" "2")
+set_tests_properties(run-small1-sproute-cpu-2 PROPERTIES  ENVIRONMENT "GALOIS_DO_NOT_BIND_THREADS=1" LABELS "quick" _BACKTRACE_TRIPLES "/home/zwt/lhy/MyProject/DepGraph/lonestar/CMakeLists.txt;17;add_test;/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/CMakeLists.txt;6;add_test_scale;/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/CMakeLists.txt;0;")
+add_test(run-small1-sproute-cpu-1 "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/eda/cpu/sproute/sproute-cpu" "-ISPD2008Graph" "/home/zwt/lhy/MyProject/DepGraph/build/inputs/eda/routing/test.gr" "--flute" "/home/zwt/lhy/MyProject/DepGraph/build/inputs/eda/routing" "-t" "1")
+set_tests_properties(run-small1-sproute-cpu-1 PROPERTIES  ENVIRONMENT "GALOIS_DO_NOT_BIND_THREADS=1" LABELS "quick" _BACKTRACE_TRIPLES "/home/zwt/lhy/MyProject/DepGraph/lonestar/CMakeLists.txt;17;add_test;/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/CMakeLists.txt;6;add_test_scale;/home/zwt/lhy/MyProject/DepGraph/lonestar/eda/cpu/sproute/CMakeLists.txt;0;")
