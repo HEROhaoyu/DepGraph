@@ -84,7 +84,10 @@ def find_best_threshold(max_degree, edges, degrees, coarse_ratio=0.1, medium_rat
                 vertex_set.add(edge[0])
                 vertex_set.add(edge[1])
                 edge_num += 1
-
+        if(len(vertex_set)>40000):#阈值越高，点的数量越少，当点的数量小于40000时，我们认为此时的阈值不是很合适，因此跳过
+            best_coarse_threshold=threshold
+            continue
+        
         if len(vertex_set) > 0:
             avg_degree = edge_num / len(vertex_set)
             if avg_degree > max_coarse_avg_degree:
@@ -106,7 +109,9 @@ def find_best_threshold(max_degree, edges, degrees, coarse_ratio=0.1, medium_rat
                 vertex_set.add(edge[0])
                 vertex_set.add(edge[1])
                 edge_num += 1
-
+        if(len(vertex_set)>40000):#阈值越高，点的数量越少，当点的数量小于40000时，我们认为此时的阈值不是很合适，因此跳过
+            best_medium_threshold=threshold
+            continue
         if len(vertex_set) > 0:
             avg_degree = edge_num / len(vertex_set)
             if avg_degree > max_medium_avg_degree:
@@ -118,8 +123,6 @@ def find_best_threshold(max_degree, edges, degrees, coarse_ratio=0.1, medium_rat
     fine_thresholds = np.arange(best_medium_threshold - fine_threshold_range, best_medium_threshold + fine_threshold_range, fine_threshold_range)
     best_fine_threshold = None
     max_fine_avg_degree = 0
-    best_fine_threshold_edge_num = 0
-    best_fine_threshold_vertex_num = 0
     for threshold in fine_thresholds:
         edge_num = 0
         vertex_set = set()
@@ -129,18 +132,18 @@ def find_best_threshold(max_degree, edges, degrees, coarse_ratio=0.1, medium_rat
                 vertex_set.add(edge[0])
                 vertex_set.add(edge[1])
                 edge_num += 1
-
+        if(len(vertex_set)>40000):#阈值越高，点的数量越少，当点的数量小于40000时，我们认为此时的阈值不是很合适，因此跳过
+            best_fine_threshold=threshold
+            continue
         if len(vertex_set) > 0:
             avg_degree = edge_num / len(vertex_set)
             if avg_degree > max_fine_avg_degree:
                 max_fine_avg_degree = avg_degree
                 best_fine_threshold = threshold
-                best_fine_threshold_edge_num = edge_num
-                best_fine_threshold_vertex_num = len(vertex_set)
                 
 
     # 返回结果
-    return best_fine_threshold, max_fine_avg_degree, best_fine_threshold_edge_num, best_fine_threshold_vertex_num,max_degree
+    return best_fine_threshold
 
 def generate_edgelist_txt(edges,best_fine_threshold,source_node,output_path):
     sparse_edgelist=[]
@@ -185,7 +188,7 @@ if __name__ == "__main__":
     source_node=max_degree_vertex
 
     # 找到最佳阈值
-    best_fine_threshold, max_fine_avg_degree, best_fine_threshold_edge_num, best_fine_threshold_vertex_num,max_degree = find_best_threshold(max_degree, edges, degrees)
+    best_fine_threshold = find_best_threshold(max_degree, edges, degrees)
     
     #生成重排序边文件
     subgraph_edge_num=generate_edgelist_txt(edges,best_fine_threshold,source_node,output)
