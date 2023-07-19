@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "cppdbg",
+            "request": "launch",
+            "name": "galois",
+            "program": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/bfs/bfs-push_copy-dist",
+            "args": [
+                "/home/zwt/lhy/MyProject/DepGraph/MyProject/dataset/dataset.gr",
+                "-t=1", 
+                "-startNode=3", 
+                "-mindspore=true",
+                "-output=true",
+                "-outputLocation=/home/zwt/lhy/MyProject/DepGraph/MyProject/output/"
+            ],
+            "cwd": "${workspaceRoot}",
+            "stopAtEntry":true,
+            "preLaunchTask": "Mytask"
+        }
+    ]
+}

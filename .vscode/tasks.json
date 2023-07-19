@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Mytask",
+			"command": "make",
+			"args": [
+				"-j"
+			],
+			"options": {
+				"cwd": "/home/zwt/lhy/MyProject/DepGraph/build/lonestar/analytics/distributed/bfs/"
+			},			
+			"group": "build",
+			"problemMatcher": [],
+			"detail": "CMake template build task"
+		}
+	]
+}

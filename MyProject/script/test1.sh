@@ -1,0 +1,1 @@
+/home/zwt/.conda/envs/galois/bin/python /home/zwt/lhy/MyProject/DepGraph/MyProject/communication/test1/PY.py --input=/home/zwt/lhy/MyProject/DepGraph/MyProject/graph_generate/output/dataset.txt --source_node=5330 --edge_num=5000 --output=/home/zwt/lhy/MyProject/DepGraph/MyProject/graph_generate/output/dataset_11.txt
